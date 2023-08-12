@@ -4,7 +4,7 @@ This repository contains Python code that implements a "Progressive Feature Sele
 
 ## Background
 
-Linear Regression is a common machine learning technique used for predicting a continuous target variable based on one or more input features. Feature selection plays a crucial role in building accurate and interpretable regression models. This approach focuses on systematically selecting and combining features to improve the model's predictive performance. *The files Project-2.ipynb and  Project_II.pdf include the process for the first attempt to solve this problem - just added as for context and reference.* The code found on this repo is the second version of it with many improvements.
+Linear Regression is a common machine learning technique used for predicting a continuous target variable based on one or more input features. Feature selection plays a crucial role in building accurate and interpretable regression models. This approach focuses on systematically selecting and combining features to improve the model's predictive performance. *The files Project-2.ipynb and  Project_II.pdf and Project-2-Opt included the process for the first attempted to solve this problem - just added as for context and reference.* The code found on this repo is the second version of it with many improvements presented on progressive-feature-linear-regression.py.
 
 ## Requirements
 
